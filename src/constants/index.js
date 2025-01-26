@@ -114,11 +114,12 @@ import {
     },
   ];
   
+
   const experiences = [
     {
       title: "Full Stack Developer Intern",
       company_name: "Foreteach",
-      iconBg: "#383E56",
+      iconBg: "",
       date: "March 2020 - April 2021",
       points: [
         "Created responsive user interfaces using React and Tailwind CSS, working on key components such as Sign-in, Sign-up, Dashboard, and a Learning portal to enhance functionality and integrated Razorpay payment gateway for secure transaction processing.",
